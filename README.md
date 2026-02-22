@@ -25,8 +25,5 @@ Media and static files:
 Repository:
 - Remote: https://github.com/banaye/Prime.git
 
-Notes:
-- I added a `.gitignore` and pushed the initial commit to GitHub.
-- If you want, I can add a `requirements.txt`, CI, or a more detailed README with screenshots.
 
 License: MIT (change if needed)
